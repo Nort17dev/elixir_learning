@@ -14,7 +14,9 @@
 0.2   # Es mejor esto, a escribir ".2"
 
 #* Booleanos / Booleans: verdadero o falso (en minusculas)
+# Cualquier valor es verdadero a excepción de false y nil:
 
+nil # Este tipo de dato representa la ausencia de valor, por esto es false
 true
 false
 
